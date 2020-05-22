@@ -20,6 +20,16 @@ it, simply add the following line to your Podfile:
 pod 'HYNetWorkKit'
 ```
 
+## How to Use?
+
+[NetWorkInstance.param(@{@"":@""}).path(@"/account/forgot/passwd").success(^(NSDictionary *response) {
+
+}).failure(^(NSError *error,NSInteger statusCode,NSString * errorString) {
+    
+}) POST]
+
+
+
 ## Author
 
 tttyyy, tangyujie@binbinyl.com
