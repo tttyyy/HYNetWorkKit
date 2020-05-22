@@ -32,7 +32,7 @@ pod 'HYNetWorkKit'
 
 ## Author
 
-tttyyy, tangyujie@binbinyl.com
+tttyyy, fengzhiku@126.com
 
 ## License
 
